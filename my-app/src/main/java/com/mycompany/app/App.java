@@ -24,6 +24,6 @@ public class App
          *
          * http://checkerframework.org
          */
-        System.out.println("bullshit no jutsu.");
+        System.out.println("bullshit no jutsu. 2");
     }
 }
